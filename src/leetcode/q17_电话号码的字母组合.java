@@ -3,7 +3,6 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 public class q17_电话号码的字母组合 {
 
