@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q12_整数转罗马数字 {
+public class q0012_整数转罗马数字 {
 
     class Solution {
         public String intToRoman(int num) {

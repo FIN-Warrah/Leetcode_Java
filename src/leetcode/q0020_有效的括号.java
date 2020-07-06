@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Stack;
 
-public class q20_有效的括号 {
+public class q0020_有效的括号 {
 
     class Solution {
         public boolean isValid(String s) {

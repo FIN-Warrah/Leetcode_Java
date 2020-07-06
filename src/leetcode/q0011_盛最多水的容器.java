@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q11_盛最多水的容器 {
+public class q0011_盛最多水的容器 {
 
     class Solution {
         public int maxArea(int[] height) {

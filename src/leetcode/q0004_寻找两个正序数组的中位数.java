@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q4_寻找两个正序数组的中位数 {
+public class q0004_寻找两个正序数组的中位数 {
 
     class Solution {
 

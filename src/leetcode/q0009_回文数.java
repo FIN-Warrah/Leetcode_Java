@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q9_回文数 {
+public class q0009_回文数 {
 
     class Solution {
         public boolean isPalindrome(int x) {

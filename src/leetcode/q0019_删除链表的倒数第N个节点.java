@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q19_删除链表的倒数第N个节点 {
+public class q0019_删除链表的倒数第N个节点 {
 
     class Solution {
         public ListNode removeNthFromEnd(ListNode head, int n) {

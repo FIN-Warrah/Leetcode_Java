@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class q15_三数之和 {
+public class q0015_三数之和 {
 
     class Solution {
         public List<List<Integer>> threeSum(int[] nums) {

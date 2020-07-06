@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q25_K个一组翻转链表 {
+public class q0025_K个一组翻转链表 {
 
     public class ListNode {
         int val;

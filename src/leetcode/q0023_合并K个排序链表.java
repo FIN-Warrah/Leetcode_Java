@@ -3,7 +3,7 @@ package leetcode;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class q23_合并K个排序链表 {
+public class q0023_合并K个排序链表 {
 
     public class ListNode {
         int val;

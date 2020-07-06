@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q7_整数反转 {
+public class q0007_整数反转 {
 
     class Solution {
         public int reverse(int x) {

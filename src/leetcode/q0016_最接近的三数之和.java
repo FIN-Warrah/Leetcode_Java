@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class q16_最接近的三数之和 {
+public class q0016_最接近的三数之和 {
 
     class Solution {
         public int threeSumClosest(int[] nums, int target) {

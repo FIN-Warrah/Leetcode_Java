@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class q18_四数之和 {
+public class q0018_四数之和 {
 
     class Solution {
         public List<List<Integer>> fourSum(int[] nums, int target) {

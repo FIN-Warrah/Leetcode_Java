@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.HashMap;
 
-public class q3_无重复字符的最长子串 {
+public class q0003_无重复字符的最长子串 {
 
     class Solution {
 

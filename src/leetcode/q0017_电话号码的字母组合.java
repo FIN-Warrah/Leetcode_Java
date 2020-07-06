@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class q17_电话号码的字母组合 {
+public class q0017_电话号码的字母组合 {
 
     class Solution {
         public List<String> res = new ArrayList<>();

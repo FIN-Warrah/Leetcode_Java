@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q5_最长回文子串 {
+public class q0005_最长回文子串 {
 
     class Solution {
         public String longestPalindrome(String s) {

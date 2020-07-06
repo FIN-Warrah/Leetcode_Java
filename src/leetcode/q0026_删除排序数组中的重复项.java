@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q26_删除排序数组中的重复项 {
+public class q0026_删除排序数组中的重复项 {
 
     class Solution {
         public int removeDuplicates(int[] nums) {

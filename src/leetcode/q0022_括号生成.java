@@ -3,7 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class q22_括号生成 {
+public class q0022_括号生成 {
 
     class Solution {
         public List<String> generateParenthesis(int n) {

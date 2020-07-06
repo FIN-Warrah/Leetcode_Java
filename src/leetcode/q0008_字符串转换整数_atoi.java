@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q8_字符串转换整数_atoi {
+public class q0008_字符串转换整数_atoi {
 
     public static void main(String[] args) {
 

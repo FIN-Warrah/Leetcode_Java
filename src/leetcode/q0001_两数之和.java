@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.HashMap;
 
-public class q1_两数之和 {
+public class q0001_两数之和 {
 
     class Solution {
         public int[] twoSum(int[] nums, int target) {

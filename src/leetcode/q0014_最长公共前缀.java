@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q14_最长公共前缀 {
+public class q0014_最长公共前缀 {
 
     class Solution {
         public String longestCommonPrefix(String[] strs) {

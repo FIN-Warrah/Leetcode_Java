@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q24_两两交换链表中的节点 {
+public class q0024_两两交换链表中的节点 {
 
     public class ListNode {
         int val;

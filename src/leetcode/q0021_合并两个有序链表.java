@@ -1,6 +1,6 @@
 package leetcode;
 
-public class q21_合并两个有序链表 {
+public class q0021_合并两个有序链表 {
 
 
     public class ListNode {

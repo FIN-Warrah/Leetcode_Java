@@ -3,7 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class q6_Z字形变换 {
+public class q0006_Z字形变换 {
 
     class Solution {
         public String convert(String s, int numRows) {
